@@ -27,7 +27,8 @@ module.exports = {
 
 pm2 start ecosystem.config.js
 pm2 save
-pm2 status```
+pm2 status
+```
 
 ```bash
 sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https curl
